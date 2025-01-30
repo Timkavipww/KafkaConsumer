@@ -1,0 +1,12 @@
+C:\gitlocal\KafkaProducer\Messaging.Kafka\bin\Debug\net8.0\Messaging.Kafka.deps.json
+C:\gitlocal\KafkaProducer\Messaging.Kafka\bin\Debug\net8.0\Messaging.Kafka.dll
+C:\gitlocal\KafkaProducer\Messaging.Kafka\bin\Debug\net8.0\Messaging.Kafka.pdb
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\Messaging.Kafka.csproj.AssemblyReference.cache
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\Messaging.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\Messaging.Kafka.AssemblyInfoInputs.cache
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\Messaging.Kafka.AssemblyInfo.cs
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\Messaging.Kafka.csproj.CoreCompileInputs.cache
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\Messaging.Kafka.dll
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\refint\Messaging.Kafka.dll
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\Messaging.Kafka.pdb
+C:\gitlocal\KafkaProducer\Messaging.Kafka\obj\Debug\net8.0\ref\Messaging.Kafka.dll
